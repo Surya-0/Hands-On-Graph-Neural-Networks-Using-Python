@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Hands-On-Graph-Neural-Networks-Using-Python.iml" filepath="$PROJECT_DIR$/.idea/Hands-On-Graph-Neural-Networks-Using-Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Machine Learning A-Z (Codes and Datasets)-2/.idea/Machine Learning A-Z (Codes and Datasets)-2.iml" filepath="$PROJECT_DIR$/../Machine Learning A-Z (Codes and Datasets)-2/.idea/Machine Learning A-Z (Codes and Datasets)-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../Git/Repo1/.idea/Repo1.iml" filepath="$PROJECT_DIR$/../../Git/Repo1/.idea/Repo1.iml" />
     </modules>
   </component>
