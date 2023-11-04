@@ -6,5 +6,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Repo1" />
     <orderEntry type="module" module-name="Machine Learning A-Z (Codes and Datasets)-2" />
+    <orderEntry type="module" module-name="AutoML_Experiments" />
+    <orderEntry type="module" module-name="UPDATED_NLP_COURSE" />
   </component>
 </module>
